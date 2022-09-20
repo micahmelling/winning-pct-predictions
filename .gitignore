@@ -1,0 +1,17 @@
+*.txt
+!requirements.txt
+*.pyc
+*.csv
+*.xlsx
+*.png
+*.jpeg
+*.db
+*.pkl
+!model.pkl
+*.dot
+*.DS_Store
+.idea/
+__pycache__/
+venv/
+scratch.py
+scratch/
